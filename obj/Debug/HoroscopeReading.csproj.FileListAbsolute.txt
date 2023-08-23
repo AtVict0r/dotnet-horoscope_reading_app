@@ -1,0 +1,11 @@
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\bin\Debug\HoroscopeReading.exe.config
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\bin\Debug\HoroscopeReading.exe
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\bin\Debug\HoroscopeReading.pdb
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.csproj.AssemblyReference.cache
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.Form1.resources
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.Properties.Resources.resources
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.csproj.GenerateResource.cache
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.exe
+C:\Users\Victor\Dropbox (City Tech)\Repo\CS\HoroscopeReading\obj\Debug\HoroscopeReading.pdb
